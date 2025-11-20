@@ -1,0 +1,25 @@
+h1{
+    color:red;
+}
+button{
+    color:rgb(255, 255, 255);
+    background-color: rgb(26, 25, 25);  
+    }
+
+body{
+    background-color:rgb(255, 255, 255)
+}
+.Nav_1 {
+    background-color:rgb(26, 25, 25);
+    color:white;
+}
+
+.Nav_2{
+    background-color: #103249;
+    color:white
+}
+
+.Nav_2 button{
+    background-color: #103249;
+    color:white
+}
