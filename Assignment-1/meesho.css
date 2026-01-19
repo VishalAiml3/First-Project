@@ -1,0 +1,130 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 20%;
+    background-color: wheat;
+}
+#header{
+    width: 100%;
+    height:20%;
+    position: fixed;
+    background-color: greenyellow;
+}
+#header1{
+    width: 100%;
+    height: 57%;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: large;
+}
+#logo img{
+     width: 100%;
+    height: 100%; 
+    object-fit: cover;
+   margin-left:30px;
+    
+   
+}
+#search{
+    display: flex;
+    padding: 10px;
+    border: 1px solid  black;  
+}
+#search p{
+    margin-left: 10px;
+}
+#bs{
+    display: flex;
+}
+#bs:hover{
+    color: rgba(215, 99, 118, 0.861);
+}
+#ir:hover{
+    color: rgba(215, 99, 118, 0.861);
+}
+#profile:hover{
+    color:rgba(215, 99, 118, 0.861);
+}
+#cart:hover{
+    color: rgba(215, 99, 118, 0.861);
+}
+
+#header2{
+   width: 100%;
+   height:43% ;
+    display: flex;
+    align-items: center;
+    text-align: center;
+     justify-content: space-around; 
+     font-size: large;
+    
+    
+}
+#box1:hover{
+    color: rgb(254, 63, 127);
+}
+#box2:hover{
+    color: rgb(254, 63, 127);
+}
+#box3:hover{
+    color: rgb(254, 63, 127);
+}
+#box4:hover{
+    color: rgb(254, 63, 127);
+}
+#box5:hover{
+    color: rgb(254, 63, 127);
+}
+#box6:hover{
+    color: rgb(254, 63, 127);
+}
+#box7:hover{
+    color: rgb(254, 63, 127);
+}
+#box8:hover{
+    color: rgb(254, 63, 127);
+}
+#box9:hover{
+    color: rgb(254, 63, 127);
+}
+#box10:hover{
+    color: rgb(254, 63, 127);
+}
+#fakeheader{
+    width: 100%;
+    height: 100%;
+}
+#pages{
+    width: 100%;
+    height: 80%;
+    background-color: blue;
+}
+#page1{
+    width: 100%;
+    height: 100%;
+  
+}
+#ad img{
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+#price{
+    width: 100%;
+    height: 10%;
+    background-color: darkslategrey;
+    margin-top: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
